@@ -1,0 +1,17 @@
+text,true_sentiment
+"I love this product! It's amazing and works perfectly.",Positive
+"This is the worst experience I've ever had. Terrible service.",Negative
+"The product is okay. Nothing special but it works.",Neutral
+"Absolutely fantastic! Highly recommend to everyone.",Positive
+"I hate this. It's completely useless and broken.",Negative
+"It's an average product. Does what it's supposed to do.",Neutral
+"Outstanding quality and excellent customer service!",Positive
+"Disappointing. Expected much better for the price.",Negative
+"The item arrived on time and matches the description.",Neutral
+"Best purchase I've made this year! So happy with it.",Positive
+"Complete waste of money. Don't buy this.",Negative
+"It's fine. Not great, not terrible, just fine.",Neutral
+"Exceeded my expectations! Will definitely buy again.",Positive
+"Poor quality and overpriced. Very disappointed.",Negative
+"Standard product. Does the job adequately.",Neutral
+
